@@ -1,2 +1,2 @@
 # Diabetes-Retinopathy-Detection
-Web application for real time detection of DR. Also allows users to upload retina scans to application
+This is a web application that allows doctors to screen the presence and severity of Diabetic Retinopathy in a patient's retina scan. A doctor has the option to scan in real-time using a webcam or upload a retina scan for classification. The classification model is built using YOLOv8.
